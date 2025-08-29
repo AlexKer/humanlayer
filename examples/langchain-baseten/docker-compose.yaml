@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  baseten-demo:
+    build: .
+    environment:
+      - HUMANLAYER_API_KEY=${HUMANLAYER_API_KEY}
+      - BASETEN_API_KEY=${BASETEN_API_KEY}
+    stdin_open: true
+    tty: true

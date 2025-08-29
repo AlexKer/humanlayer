@@ -33,6 +33,7 @@ These examples include more end-to-end API examples, using webservers like flask
 - [crewai-mistral](./crewai-mistral)
 - [langchain-anthropic](./langchain-anthropic)
 - [langchain-ollama](./langchain-ollama)
+- [langchain-baseten](./langchain-baseten) - office supply agent demo using Baseten's DeepSeek-V3.1 with human approval workflows (perfect for Instagram reels!)
 
 ### Other Frameworks
 
